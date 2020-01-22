@@ -1,0 +1,7 @@
+1.finding files with same extension
+
+open terminal
+write
+find . -type f -name .txt
+(in order to search files with extension .txt )
+

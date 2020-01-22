@@ -1,0 +1,13 @@
+3.steps to launch ec2 instance
+
+1. go to  AWS Management Console
+2. open ec2 console under Compute
+3.from ec2 dashboard choose Launch Instance.
+4. choose AMI (amazon machine image)
+5.On the Choose an Instance Type page choose t.2 micro(hardware config)
+6. choose launch on the review instance launch page
+7. create key pair by clicking Create a new key pair.
+8. save the private key.
+9.choose launch instance.
+
+

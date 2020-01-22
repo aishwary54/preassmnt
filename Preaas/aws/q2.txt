@@ -1,0 +1,19 @@
+2.What will be the outcome of this IAM Policy
+{
+Version 2012-10-17,
+Statement [{
+Action ec2,
+Resource ,
+Effect Allow
+},
+{
+Action ,
+Resource ,
+Effect Deny
+}
+]
+}
+
+ans
+
+the policy allow an administrator to access to all the resourses and perform actions of ec2 and denies other access.

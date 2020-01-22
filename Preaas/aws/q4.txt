@@ -1,0 +1,6 @@
+4.1.Create an Amazon S3 Bucket with a unique name
+2.configure options and set permissions.
+3.enable static website hosting on the bucket.
+4.upload static website code to the bucket.
+5.access the static website using custom domain name using route 53.
+6.enable url redirection,by creating another bucket in same way and add protocol as http.

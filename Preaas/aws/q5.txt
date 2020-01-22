@@ -1,0 +1,16 @@
+5.VPS details:
+
+VPC Name: MyVPC
+CIDR : 10.0.0.0/16
+Public Subnet: 10.0.1.0/24
+Private Subnet: 10.0.2.0/24
+
+1.create vpc (login to aws management console and navigate to vpc console)
+2.enter new vpc cidr details and name and 10.0.0.0/16 as ipv4 cidr block click on create.
+3.create public subnet under subnets option and enter 10.0.1.0/24 in “IPv4 CIDR block” for public subnet.
+4. create private subnet with  CIDR 10.0.2.0/24
+5.create and attach INTERNET GATEWAY.
+6.attach to vpc.
+7.add route to public subnet by creating route table
+8. edit and Add “0.0.0.0/0” as destination.
+9.associate with public subnet.
