@@ -1,0 +1,2 @@
+Use the following to get exact matches of $WORD in file $FILENAME.
+grep $WORD $FILENAME -cow

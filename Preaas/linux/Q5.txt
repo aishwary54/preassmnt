@@ -1,0 +1,4 @@
+How to find a specific file in the system?
+use the command find a specific file in appropriate directory
+# for example to find 'aws.txt' file in the current directory will be:
+find . -name "aws.txt
