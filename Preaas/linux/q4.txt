@@ -1,6 +1,0 @@
-1)	Consider a text file which has multi-lines text, output all the lines which has a specific word and also output the total number of occurrences of that word 
-Ans :
-To output all lines which has a specific word you can use the command 
-?	grep 'pattern' file
-To count the total number of occurrence of that word you can use
-?	grep -c '^WORD$'
